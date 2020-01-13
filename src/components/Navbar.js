@@ -11,12 +11,12 @@ export default function Navbar() {
         <ul className="navbar-nav">
           <li className="navbar-item">
             <Link className="nav-link" to="/">
-              Home
+              kodilla Home
             </Link>
           </li>
           <li className="navbar-item">
             <Link className="nav-link" to="/recipes">
-              Recipes
+              kodilla Recipes
             </Link>
           </li>
         </ul>
